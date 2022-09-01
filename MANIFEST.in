@@ -1,0 +1,3 @@
+include hello-rs/Cargo.lock
+include hello-rs/Cargo.toml
+include hello-rs/src/lib.rs

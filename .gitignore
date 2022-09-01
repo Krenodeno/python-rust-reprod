@@ -1,0 +1,6 @@
+hello-rs/target/
+__env__/
+build/
+__pycache__/
+*.pyc
+*.egg-info/
